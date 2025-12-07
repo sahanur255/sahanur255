@@ -16,7 +16,7 @@ My primary focus is on **custom WHMCS module development and business automation
 
   ## 💰 Support My Work
   If you find my projects useful and would like to support my open-source contributions, you may consider donating below:<br><br>
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/SahanurMondal ) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SahanurMondal ) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
